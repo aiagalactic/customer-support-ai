@@ -1,0 +1,11 @@
+flask
+flask_sqlalchemy
+flask_cors
+openai
+langchain
+googletrans==4.0.0rc1
+chromadb
+stripe
+PyPDF2
+tiktoken
+gunicorn
